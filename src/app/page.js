@@ -194,7 +194,7 @@ export default function Home() {
   return (
     <div className="lg:container lg:mx-auto p-10 box-border">
       <div className="border-b-2 border-gray-700 p-3 m-3">
-        <h1 className="block text-6xl pb-10">HD Wallet</h1>
+        <h1 className="block text-6xl pb-10">Mnemonics Wallet</h1>
         <div className="relative">
           <ToastContainer />
           <label
